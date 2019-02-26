@@ -1,0 +1,2 @@
+# Primo_Show_Translation_Code_Bookmarklet
+Bookmarklet for replacing interface label with corresponding translation code
